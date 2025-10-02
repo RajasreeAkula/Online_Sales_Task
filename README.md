@@ -1,4 +1,4 @@
-# Online_Sales_Task_09
+# Online_Sales_Task
 SQL project analyzing online sales data using MySQL. Includes monthly revenue trends, year-specific analysis, and top-performing months with formatted outputs for clear insights.
 
 **Tools Used**
